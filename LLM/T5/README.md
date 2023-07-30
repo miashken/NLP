@@ -1,4 +1,4 @@
-### Michal Ashkenazi
+(Michal Ashkenazi)
 
 **T5Model:** Is the basic implementation of T5 architecture. It includes both the encoder and the decoder components, but without any task specific heads, it only returns the raw hidden states of the decoder as output.
 
